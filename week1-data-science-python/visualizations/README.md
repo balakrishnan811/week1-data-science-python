@@ -1,0 +1,1 @@
+Run `python week1_titanic_analysis.py` to generate the five PNG visualizations in this folder.
